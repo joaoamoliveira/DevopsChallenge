@@ -1,0 +1,15 @@
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\TriangulosApp.exe
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\TriangulosApp.deps.json
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\TriangulosApp.runtimeconfig.json
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\TriangulosApp.dll
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\ref\TriangulosApp.dll
+D:\TriangulosApp\TriangulosApp\bin\Debug\net6.0\TriangulosApp.pdb
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.csproj.AssemblyReference.cache
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.AssemblyInfoInputs.cache
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.AssemblyInfo.cs
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.csproj.CoreCompileInputs.cache
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.dll
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\ref\TriangulosApp.dll
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.pdb
+D:\TriangulosApp\TriangulosApp\obj\Debug\net6.0\TriangulosApp.genruntimeconfig.cache
